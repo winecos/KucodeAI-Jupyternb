@@ -1,4 +1,4 @@
 # jupyternb  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/winecos/jupyternb/kucodeai)  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/winecos/jupyternb/master)  
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/winecos/jupyternb/kucodeai
+ :target: https://mybinder.org/v2/gh/winecos/jupyternb/master  
